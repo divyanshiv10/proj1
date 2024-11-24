@@ -1,2 +1,3 @@
 # proj1
-author - Divyanshi 
+author - Divyanshi Vishwakarma
+
